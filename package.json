@@ -1,0 +1,7 @@
+{
+  "name": "get_db_list",
+  "main": "app.js",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
